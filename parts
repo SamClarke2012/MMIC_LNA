@@ -1,0 +1,24 @@
+Partlist
+
+Exported from MMIC LNA.brd at 4/10/14 5:20 PM
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part       Value          Package            Library             Position (mm)         Orientation
+
+.                         1X02_LOCK_LONGPADS SparkFun-Connectors (20.8 13)             R180
+........X1                BU-SMA-V           con-coax            (5 5)                 R0
+C1         10uf           0603-CAP           SparkFun-Capacitors (26 11)               R0
+C2         10uf           0603-CAP           SparkFun-Capacitors (13 11)               R180
+C3         300pf          0603-CAP           SparkFun-Capacitors (13 5)                R0
+C4         470pf          0603-CAP           SparkFun-Capacitors (13 2)                R0
+C5         470pf          0603-CAP           SparkFun-Capacitors (26 5)                R0
+C6         300pf          0603-CAP           SparkFun-Capacitors (26 2)                R0
+C7         1nf            0603-CAP           SparkFun-Capacitors (13 8)                R0
+IC1                       WW                 linear              (19 5.01)             R270
+IC2        REG1117        SOT223             burr-brown          (19 6)                MR180
+L1         22uH           0603               SparkFun-Passives   (26 8)                R0
+R1         3Ohm           0603-RES           SparkFun-Passives   (19 10)               R180
+X2                        BU-SMA-V           con-coax            (34 5)                R0
